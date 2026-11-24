@@ -1,0 +1,1 @@
+GitHub main 루트에 index.html, config.js, seats.jpg 업로드. 배포 완료 후 Supabase CAPTCHA secret 저장, 익명 로그인 활성화. 기존 SQL 재실행 금지. 실제 로그인 및 제보 테스트 필요.

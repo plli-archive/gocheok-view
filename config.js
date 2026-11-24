@@ -1,0 +1,1 @@
+window.CONFIG={"url": "https://ccpiznhjvgcyiyrlrurd.supabase.co", "key": "sb_publishable_bDrULd_p0OZyLc-Zr9yqMQ_CRuXyxrp", "adminUid": "b11f942d-b0e0-4e2f-8004-4ff5613ba33a", "captchaSiteKey": "0x4AAAAAAGQIIIr7zk9FPeLq"};
